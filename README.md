@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chris - @CDay-87
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning HTML.
-- 💞️ I’m not looking to collaborate on anything yet.
+- 🌱 I’m currently learning HTML & CSS.
 - 📫 How to reach me - chrisday87@outlook.com
 
 <!---
