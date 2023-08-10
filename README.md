@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris - @CDay-87
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Web Development with Udemy.
+- 🌱 I’m currently learning Web Development with Zero to Mastery through Udemy.
 - 📫 How to reach me - chrisday87@outlook.com
 
 <!---
